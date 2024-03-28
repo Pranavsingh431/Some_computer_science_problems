@@ -1,0 +1,3 @@
+Algorithm: As described in the class, you should sample the first n/e elements 
+and note the best and settle down for anything better than the best that you observe first. 
+If you dont get anything better than the best, then you settle down for the last number in the list. 
